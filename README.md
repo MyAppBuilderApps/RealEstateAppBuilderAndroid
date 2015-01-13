@@ -8,7 +8,7 @@ Sample app is built and tested with Cordova 3.5.0 Android and we only support Co
 
 **Required reading**
 
-Please see the Getting Started With iOS for PhoneGap guide [here](http://docs.phonegap.com/en/3.5.0/guide_platforms_android_index.md.html#Android%20Platform%20Guide).
+Please see the Getting Started With android for PhoneGap guide [here](http://docs.phonegap.com/en/3.5.0/guide_platforms_android_index.md.html#Android%20Platform%20Guide).
 
 ###  **_App Controller_**  ##########
 
